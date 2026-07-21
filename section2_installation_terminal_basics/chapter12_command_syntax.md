@@ -3,7 +3,7 @@
 General structure:
 ```bash
 command [options] [arguments]
-
+```
 Example:
 ```bash
 ls -l /home
@@ -14,7 +14,7 @@ ls -l /home
 
 - /home → argument
 
-
+```
 ---
 
 
