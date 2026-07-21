@@ -13,5 +13,5 @@ The kernel is the **core of Linux**, loaded after the bootloader.
 ## Example Flow
 ```bash
 cat /etc/hostname
-
+```
 User → Shell → Kernel → Disk → Output
