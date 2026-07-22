@@ -19,3 +19,4 @@ By the end of this section, you'll understand:
 - Chapter 18: Viewing Files
 - Chapter 19: Wildcards
 - Chapter 20: Inodes
+- Chapter 21: Devops Practice
