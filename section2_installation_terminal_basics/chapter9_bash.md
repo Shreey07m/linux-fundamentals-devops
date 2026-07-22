@@ -19,6 +19,8 @@ Check current shell:
 ```bash 
 echo $SHELL
 ```
+Output: ``/bin/bash``
+
 Available shells:
 ```bash
 cat /etc/shells
