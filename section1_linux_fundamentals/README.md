@@ -1,8 +1,3 @@
-
----
-
-### `README.md`
-```markdown
 # Section 1 – Linux Fundamentals
 
 ## Chapters
