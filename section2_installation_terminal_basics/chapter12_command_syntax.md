@@ -7,14 +7,10 @@ command [options] [arguments]
 Example:
 ```bash
 ls -l /home
-
-- ls → command
-
-- -l → option
-
-- /home → argument
-
 ```
----
 
+- `ls` → command
 
+- `-l` → option
+
+- `/home`→ argument
