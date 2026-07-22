@@ -12,17 +12,14 @@ Bash = Bourne Again Shell. Default shell in most distros.
 ## Examples
 ```bash
 echo Hello
-
+```
 Output: ``Hello``
 
 Check current shell: 
 ```bash 
 echo $SHELL
-
+```
 Available shells:
 ```bash
 cat /etc/shells
-
-
-
----
+```
